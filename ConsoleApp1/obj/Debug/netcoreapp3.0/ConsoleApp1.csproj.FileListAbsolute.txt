@@ -34,3 +34,6 @@ C:\HackathoneDemo\DeliveryPerformance.UI.Test\ConsoleApp1\bin\Debug\netcoreapp3.
 C:\HackathoneDemo\DeliveryPerformance.UI.Test\ConsoleApp1\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
 C:\HackathoneDemo\DeliveryPerformance.UI.Test\ConsoleApp1\bin\Debug\netcoreapp3.0\Utf8Json.dll
 C:\HackathoneDemo\DeliveryPerformance.UI.Test\ConsoleApp1\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\HackathoneDemo\DeliveryPerformance.UI.Test\CentiroDPAutomation\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\HackathoneDemo\DeliveryPerformance.UI.Test\CentiroDPAutomation\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\HackathoneDemo\DeliveryPerformance.UI.Test\CentiroDPAutomation\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
